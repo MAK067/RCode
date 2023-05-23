@@ -1,0 +1,4 @@
+- source: tab2.qmd
+  quarto-pub:
+    - id: ea2af8e1-c690-4034-a1c8-9104c73fefc0
+      url: 'https://quartopub.com/sites/mak007/tab2'
